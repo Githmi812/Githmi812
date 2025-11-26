@@ -22,4 +22,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=githmi812&show_icons=true&locale=en&layout=compact" alt="githmi812" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githmi812&" alt="githmi812" /></p>
-<img src="https://github.com/Githmi812/Githmi812/blob/02a1364f439bb2884cb3b965f678b9293a29710e/for%20github.jpg"width=500 height=325>
+<img src="https://github.com/Githmi812/Githmi812/blob/02a1364f439bb2884cb3b965f678b9293a29710e/for%20github.jpg"width=500 height=350>
